@@ -1,0 +1,75 @@
+a.icon-link-menu {
+    color: black;
+}
+
+.topbar-profile-photo, .like-profile-photo {
+    position: relative;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.stories-profile-photo {
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+
+.stories-username {
+    display: flex;
+    font-size: small;
+    text-align: center;
+    justify-content: center;
+}
+
+.text-search {
+    display: flex;
+    text-align: center;
+}
+
+.lupa {
+    position: absolute;
+    pad: 0;
+    top: 14px;
+    left: 42.5%;
+
+}
+
+.ing-dimention {
+    transform: scale(1.5);
+    width: 100%;
+}
+
+.post-profile-photo {
+    position: relative;
+    width: 46px;
+    height: 46px;
+}
+
+.card-body-1{
+    display: relative;
+    padding: 0px 0px 0px 0px;
+        
+}
+
+.icon-link-post {
+    color: black;
+}
+
+.bookmark {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+}
+
+.ver-comments {
+    color: rgb(157,157,157);
+}
+
+.time {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+
+.add-comment {
+    border-style: none;
+}
