@@ -1,2 +1,2 @@
 # instagramcopy
-O desafio do bootcamp IGTI era realizar uma cópia do Instagram
+O desafio do bootcamp IGTI era realizar uma cópia do Instagram com Bootstrap
